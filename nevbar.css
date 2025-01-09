@@ -1,0 +1,14 @@
+div{
+    background-color: #2E5077;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+}
+a{
+    color: white;
+    padding: 4px;
+}
+a:hover{
+    background-color: black;
+}
